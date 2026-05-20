@@ -1,13 +1,13 @@
 # Hi, I'm Khushboo
-💻Aspiring Java Developer
-Python Developer
-🌐Web Development Enthusiast
-Skilled in NumPy & Pandas
+💻Aspiring Java Developer |
+Python Developer |
+🌐Web Development Enthusiast |
+Skilled in NumPy & Pandas |
 DSA Learner
 
 # Coding Profile
--> Leetcode
--> Codeforces
+- Leetcode
+- Codeforces
 
 # Skills
 - Java
@@ -17,5 +17,5 @@ DSA Learner
 - DSA
 
 # Goals
-Solve 300+ Leetcode Problems
+Solve 300+ Leetcode Problems |
 Build Projects
